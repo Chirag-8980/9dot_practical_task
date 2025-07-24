@@ -32,6 +32,7 @@ const authSlice = createSlice({
     logout: (state) => {
       state.token = null;
       localStorage.removeItem('token');
+      window.location.href = "/login"
     },
   },
   extraReducers: (builder) => {

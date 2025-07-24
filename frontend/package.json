@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
+    "@tabler/icons-react": "^3.34.1",
     "@tanstack/react-table": "^8.21.3",
     "axios": "^1.11.0",
     "flowbite-react": "^0.10.2",

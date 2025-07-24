@@ -7,4 +7,5 @@ export const store = configureStore({
     auth: authSlice,
     tasks: taskSlice,
   },
+
 });
